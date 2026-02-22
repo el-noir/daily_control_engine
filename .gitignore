@@ -1,1 +1,11 @@
 venv/
+.env
+
+credentials.json
+
+demo_checks/credentials.json
+
+.venv/
+venv/
+.venv310/
+.venv312/
